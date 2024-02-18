@@ -1,3 +1,5 @@
 # Hello
 
-This is food logger
+This is food logger. 
+
+## Coming Soon!
